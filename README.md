@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Baloch</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="![image](https://github.com/HuzaifaBloch/HuzaifaBloch/assets/134151252/b749269e-44e9-46e9-b570-381f7132a4d6)
-" alt="huzaifabloch" /> </p>
+<p align="left"> <img src="https://images.unsplash.com/photo-1518773553398-650c184e0bb3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" alt="huzaifabloch" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifabloch&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifabloch" /> </p>
 
