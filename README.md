@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Baloch</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-503x512-mega3xxj.png" alt="huzaifabloch" width = 300 length = 300 /> <img src="#" alt = "IMG" width = 300 length = 500 </p>
+<p align="left"> <img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-503x512-mega3xxj.png" alt="huzaifabloch" width = 200 length = 200 /> <img src="#" alt = "IMG" width = 300 length = 500 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifabloch&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifabloch" /> </p>
 
